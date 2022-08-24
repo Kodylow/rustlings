@@ -5,5 +5,6 @@
 // I AM NOT DONE
 
 fn main() {
-    println!("Hello {}!");
+    let x = "world".to_string();
+    println!("Hello {}!", x);
 }
